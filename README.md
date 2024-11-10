@@ -7,7 +7,7 @@
 #### Клонируем проект
 
 ```commandline
-git clone https://github.com/Hackathon-qualify-championship-RT/juniors1
+git clone https://github.com/124476/Askly
 ```
 
 #### Переходим в папку juniors1
@@ -87,6 +87,6 @@ python3.8 -m venv venv
 ```
 
 ### Видеодемонстрация проекта
-[Скачать видеодемонстрацию проекта](https://github.com/Hackathon-qualify-championship-RT/juniors1/raw/main/Askly_video.mp4)
+[Скачать видеодемонстрацию проекта](https://github.com/124476/Askly/raw/main/Askly_video.mp4)
 
 ## Если у вас возникли проблемы с запуском проекта, свяжитесь с нами!
